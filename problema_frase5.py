@@ -1,5 +1,7 @@
 # Nombre: jose leonardo lopez rangel
-#
+# progama de ingenieria en sistemas
+# autoria propia
+
 #PROBLEMA 4 - Videoteca Digital
 
 # Matriz con información de películas/series
